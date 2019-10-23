@@ -1,4 +1,5 @@
 # local_bank
+<<<<<<< HEAD
 The project is a web application build using php framework codeigniter, mysql database and bootstrap front-end
 
 How to run the project
@@ -11,3 +12,5 @@ How to run the project
      banker/application/config/config.php
    
 5. Run the project from localhost/banker from your local machine
+=======
+>>>>>>> 531c719899b64dc1e29eeea1f5ad5e07328f85ed
